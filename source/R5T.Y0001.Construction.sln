@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.Y0001.Construction", "R5T.Y0001.Construction\R5T.Y0001.Construction.csproj", "{1723A1F6-D408-45ED-8E05-B66B1EF1CEFD}"
 EndProject
@@ -15,9 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1723A1F6-D408-45ED-8E05-B66B1EF1CEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -44,5 +41,8 @@ Global
 		{A6C7A192-926D-425C-89D3-09BE4F9E083A}.Release|x64.Build.0 = Release|Any CPU
 		{A6C7A192-926D-425C-89D3-09BE4F9E083A}.Release|x86.ActiveCfg = Release|Any CPU
 		{A6C7A192-926D-425C-89D3-09BE4F9E083A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

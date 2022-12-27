@@ -1,5 +1,7 @@
 ﻿using System;
 
+using R5T.T0156;
+
 
 namespace R5T.Y0001
 {
@@ -7,6 +9,7 @@ namespace R5T.Y0001
     {
         // Use nested class to avoid namespace name-to-class name collision.
         // Use 'For' prefix to avoid problems with members having the same name as their enclosing types.
+        [DocumentationMarker]
         public static class ForNamespaceName
         {
             /// <summary>
